@@ -1,0 +1,1 @@
+echo JenkinsBuild is success
